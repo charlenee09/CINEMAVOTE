@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  category: MyString
+  image: MyString
+  rating: 1.5
+  year: 1
+  synopsis: MyText
+  trailer_id: MyString
+  is_new: false
+  is_popular: false
+
+two:
+  title: MyString
+  category: MyString
+  image: MyString
+  rating: 1.5
+  year: 1
+  synopsis: MyText
+  trailer_id: MyString
+  is_new: false
+  is_popular: false
