@@ -8,3 +8,4 @@ Nama Kelompok 5:
 Darren Monvago_243303611287
 Anthony Felim_243303611444
 Patryc Ananta Seravin_243303611408
+Charlene Vanesa Lim_243303611420
